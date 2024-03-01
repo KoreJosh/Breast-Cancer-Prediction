@@ -1,11 +1,6 @@
 # Breast-Cancer-Prediction
 
-![](https://github.com/KoreJosh/Breast-Cancer-Prediction/assets/97749198/d1d886af-6608-45d2-9a52-0f07534f99ab)
-
-
-# Breat Cancer Analysis and Prediction
-
-![](https://github.com/KoreJosh/Heart-Disease-Prediction/blob/main/82f5faf38685839bcb87647afe6db756.jpg)
+![](https://github.com/KoreJosh/Breast-Cancer-Prediction/assets/97749198/bafd0a58-dab9-472d-b262-6d3faf639885)
 
 ## Problem Statement
 **Problem Statement: Breast Cancer Analysis and Prediction**
@@ -33,12 +28,13 @@ The dataset contains 334 rows( each rows represent a patient), and 16 columns of
 Exploratory analysis condudted on the data to derive insights such as:
 
 ### Gender count of Patients:
-
+![Gender count](https://github.com/KoreJosh/Breast-Cancer-Prediction/assets/97749198/e9f95a34-a954-4ef9-ad2b-63d8d4ea253c)
 
 ### Tumour Stages Of Patients
-
+![Tumour Stage](https://github.com/KoreJosh/Breast-Cancer-Prediction/assets/97749198/ac8b8d03-8a94-4161-b730-00ca5ecc43c7)
 
 ### Histology Of Patients
+![Histology](https://github.com/KoreJosh/Breast-Cancer-Prediction/assets/97749198/950a15ed-8b2a-4810-af54-02de3a41217f)
 
 Looking at the histology of breast cancer patients. 
 (Histology is a description of a tumour based on how abnormal the cancer cells and 
