@@ -83,7 +83,7 @@ model.fit(xtrain,ytrain)
 
 ## Result / Findings
 
-With inputed details of the dependent features the price of thr house rent can be predicted.
+With inputted details of the dependent features the status of the Patient can be predicted whether they would be going n another surgery or not.
 
 ```
 # features = [['Age', 'Gender', 'Protein1', 'Protein2', 'Protein3','Protein4', 'Tumour_Stage', 'Histology', 'ER status', 'PR status', 'HER2 status', 'Surgery_type']]
